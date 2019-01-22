@@ -8,6 +8,6 @@ https://github.com/sringram96/Spoon-Knife
 
 https://github.com/sringram96/PullReq
 
-![One](images/Lab02Picture01.png)
+![One](Images/Lab02Picture01.png)
 
-![Two](images/Lab02Picture02.png)
+![Two](Images/Lab02Picture02.png)
