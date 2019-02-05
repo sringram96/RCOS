@@ -35,6 +35,30 @@ class TestMarkdownPy(unittest.TestCase):
         self.assertEqual( 
                 run_markdown('**this should be wrapped in strong tags**'),
                 '<p><strong>this should be wrapped in strong tags</strong></p>')
+                
+    def test_hash(self):
+    '''
+    Lines with one or more(up to three) hashtags
+    '''
+        self.assertEqual(
+                run_markdown('#testOne'),
+                '<h1>testOne</h1>')
+        self.assertEqual(
+                run_markdown('#testTwo'),
+                '<h2>testOne</h2>')
+        self.assertEqual(
+                run_markdown('#testThree'),
+                '<h3>testOne</h3>')
+         
+    def test_block
+    '''
+    Lines with blockquotes
+    '''
+        self.assertEqual(
+            run_markdown('>this is a
+                          >blockquote'),
+            '<blockquote>this is a blockquote</blockquote>')
+    
 
 if __name__ == '__main__':
 unittest.main()
