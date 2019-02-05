@@ -129,21 +129,21 @@ print '<p>' + line + '</p>',
 
 test code
 
-'''
-Test markdown.py with unittest
-To run tests:
-    python test_markdown_unittest.py
-'''
-
-import unittest
-from markdown_adapter import run_markdown
-
-class TestMarkdownPy(unittest.TestCase):
-
-    def setUp(self):
-        pass
-
-    def test_non_marked_lines(self):
+> '''
+> Test markdown.py with unittest
+> To run tests:
+>     python test_markdown_unittest.py
+> '''
+> 
+>import unittest
+> from markdown_adapter import run_markdown
+>
+> class TestMarkdownPy(unittest.TestCase):
+> 
+>    def setUp(self):
+>        pass
+>
+>    def test_non_marked_lines(self):
         '''
         Non-marked lines should only get 'p' tags around all input
         '''
