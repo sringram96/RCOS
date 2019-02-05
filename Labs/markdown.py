@@ -20,9 +20,23 @@ def convertEm(line):
   line = re.sub(r'\*(.*)\*', r'<em>\1</em>', line)
   line = re.sub(r'_(.*)_', r'<em>\1</em>', line)
   return line
+ 
+
+def oneHash(line):
+ line = re.sub(r'\#[a-zA-Z]', r'<h1>\1</h1>', line)
+ return line
+def twoHash(line):
+ line = re.sub(r'\##[a-zA-Z]', r'<h2>\1</h2>', line)
+ return line
+def threeHash(line):
+ line = re.sub(r'\###[a-zA-Z]', r'<h3>\1</h3>', line)
+ return line
 
 for line in fileinput.input():
   line = line.rstrip() 
   line = convertStrong(line)
   line = convertEm(line)
+  line = oneHash(line)
+  line = twoHash(line)
+  line = threeHash(line)
 print '<p>' + line + '</p>',
