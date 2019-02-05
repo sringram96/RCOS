@@ -21,3 +21,13 @@ relieveing yourself of the liability for the product.
 For a business, Apache is better because this lisence allows them to make their project open source but also allows them to put their name and logo on the software.
 For hte greater good lgpl because it is like gpl but less restictive.
 # Vii
+When choosing a project to work on , I would want it to be widely used and helpful. The RCOS project LATE falls into both of these categories. THe users would be average people who need help organizing their life, like me. If it works I would use an apache lisence because it would take a lot of work to make and I believe credit is due to the authors of the project.
+# Viii
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/apexal/late | Yes | MIT Lisence https://en.wikipedia.org/wiki/MIT_License
+https://github.com/huimingcheng/autograding | Yes | MIT Lisence https://en.wikipedia.org/wiki/MIT_License
+https://github.com/carolynann/rcos-campuswatch | Yes | MIT Lisence https://en.wikipedia.org/wiki/MIT_License
+https://github.com/kool814/clickbaitchromeextension | Yes | MIT Lisence https://en.wikipedia.org/wiki/MIT_License
