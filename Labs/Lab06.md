@@ -4,51 +4,51 @@ Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
 853 connected components
-Shortest path between chaos and order is
-chaos
-choos
-shoos
-shoes
-shoed
-shred
-sired
-sided
-aided
-added
-adder
-odder
-order
-Shortest path between nodes and graph is
-nodes
-lodes
-lores
-lords
-loads
-goads
-grads
-grade
-grape
-graph
-Shortest path between moron and smart is
-moron
-boron
-baron
-caron
-capon
-capos
-capes
-canes
-banes
-bands
-bends
-beads
-bears
-sears
-stars
-start
-smart
-Shortest path between pound and marks is
-None
+Shortest path between chaos and order is  
+chaos  
+choos  
+shoos  
+shoes  
+shoed  
+shred  
+sired  
+sided  
+aided  
+added  
+adder  
+odder  
+order  
+Shortest path between nodes and graph is  
+nodes  
+lodes  
+lores  
+lords  
+loads  
+goads  
+grads  
+grade  
+grape  
+graph  
+Shortest path between moron and smart is  
+moron  
+boron  
+baron  
+caron  
+capon  
+capos  
+capes  
+canes  
+banes  
+bands  
+bends  
+beads  
+bears  
+sears  
+stars  
+start  
+smart  
+Shortest path between pound and marks is  
+None  
 
 part 2
 ----------------------------------------------
@@ -142,21 +142,21 @@ print("None")
 
 Part 3
 ------------------------------------------------------------------------------
-Loaded words_dat.txt containing 5757 five-letter English words.
-Two words are connected if they differ in one letter.
-Graph has 4273 nodes with 21047 edges
-81 connected components
-Shortest path between cold and warm is
-cold
-wold
-word
-ward
-warm
-Shortest path between love and hate is
-love
-hove
-have
-hate
+Loaded words_dat.txt containing 5757 five-letter English words.  
+Two words are connected if they differ in one letter.  
+Graph has 4273 nodes with 21047 edges  
+81 connected components  
+Shortest path between cold and warm is  
+cold  
+wold  
+word  
+ward  
+warm  
+Shortest path between love and hate is  
+love  
+hove  
+have  
+hate  
 
 Part 4
 -----------------------------------------------------------------------------------
@@ -243,52 +243,52 @@ print("None")
 
 Part 5
 --------------------------------------------------------------------------------------
-Loaded words_dat.txt containing 5757 five-letter English words.
-Two words are connected if they differ in one letter.
-Graph has 5757 nodes with 14135 edges
-853 connected components
-Shortest path between chaos and order is
-chaos
-choos
-shoos
-shoes
-shoed
-shred
-sired
-sided
-aided
-added
-adder
-odder
-order
-Shortest path between nodes and graph is
-nodes
-lodes
-lores
-lords
-loads
-goads
-grads
-grade
-grape
-graph
-Shortest path between moron and smart is
-moron
-boron
-baron
-caron
-capon
-capos
-capes
-canes
-banes
-bands
-bends
-beads
-bears
-sears
-stars
-start
-smart
-Shortest path between pound and marks is
-None
+Loaded words_dat.txt containing 5757 five-letter English words.  
+Two words are connected if they differ in one letter.  
+Graph has 5757 nodes with 14135 edges  
+853 connected components  
+Shortest path between chaos and order is  
+chaos  
+choos  
+shoos  
+shoes  
+shoed  
+shred  
+sired  
+sided  
+aided  
+added  
+adder  
+odder  
+order  
+Shortest path between nodes and graph is  
+nodes  
+lodes  
+lores  
+lords  
+loads  
+goads  
+grads  
+grade  
+grape  
+graph  
+Shortest path between moron and smart is  
+moron  
+boron  
+baron  
+caron  
+capon  
+capos  
+capes  
+canes  
+banes  
+bands  
+bends  
+beads  
+bears  
+sears  
+stars  
+start  
+smart  
+Shortest path between pound and marks is  
+None  
