@@ -52,7 +52,7 @@ None
 
 part 2
 ----------------------------------------------
-"""
+```"""
 =====
 Words
 =====
@@ -138,6 +138,7 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
 print("None")
+```
 
 Part 3
 ------------------------------------------------------------------------------
@@ -159,7 +160,7 @@ hate
 
 Part 4
 -----------------------------------------------------------------------------------
-References
+```References
 ----------
 .. [1] Donald E. Knuth,
    "The Stanford GraphBase: A Platform for Combinatorial Computing",
@@ -237,6 +238,7 @@ if __name__ == '__main__':
                 print(n)
         except nx.NetworkXNoPath:
 print("None")
+```
 
 
 Part 5
