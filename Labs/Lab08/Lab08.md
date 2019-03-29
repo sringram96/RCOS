@@ -11,7 +11,9 @@ checkpoint two is just exeuting tests on the vtk testing system, simple enough
 ![part2](https://github.com/sringram96/RCOS/blob/master/Labs/Lab08/lab08part2.png)
 
 ## Part 3
-checkpoint 3 is to break the test! this is the best part, i break things regularly so this was no problem for me
+checkpoint 3 is to break the test! this is the best part, i break things regularly so this was no problem for me. 
+I actually ran into a problem because instead of breaking the test i broke the build! which I thougth was what was supposed to happen
+But upon further review of the lab I realized thats not how this was supposed to go, so I fixed the buid and then broke the test
 ![part3](https://github.com/sringram96/RCOS/blob/master/Labs/Lab08/lab08part3.png)
 
 ## Part 4
