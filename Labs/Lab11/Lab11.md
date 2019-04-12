@@ -13,7 +13,7 @@ although my results changed everytme I ran the code
 ### Original Shirt
 ![part3Original](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/Plain%2BT-Shirt.jpg)
 ### Greyscale Shirt
-![part3Greyscale](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscaleShirt.jpg =250x250)
+![part3Greyscale](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscaleShirt.jpg=250x250)
 ### Results Shirt
 ![part3hirtResults](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/shirtResult.png)
 
