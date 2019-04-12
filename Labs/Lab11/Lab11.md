@@ -13,20 +13,20 @@ although my results changed everytme I ran the code
 ### Original Shirt
 ![part3Original](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/Plain%2BT-Shirt.jpg)
 ### Greyscale Shirt
-![part3Greyscale](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscaleShirt.jpg=250x250)
+![part3Greyscale](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscaleShirt.jpg)
 ### Results Shirt
 ![part3hirtResults](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/shirtResult.png)
 
 ### Original Pants
 ![Part3PantsOriginal](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/pants.jpg)
 ### Greyscale Pants
-![Part3GreyscalePants](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscalePants.jpg =250x250)
+![Part3GreyscalePants](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscalePants.jpg)
 ### Pants Results
 ![Part3PantsResults](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/pantsResults.png)
 
 ### Original Sandal
 ![Part3SandalOriginal](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/sandal.jpg)
 ### Greyscale Sandal
-![Part3SandalGreyscale](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscaleSandal.jpg =250x250)
+![Part3SandalGreyscale](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/greyscaleSandal.jpg)
 ### Sandal Results
 ![Part3SandalResults](https://github.com/sringram96/RCOS/blob/master/Labs/Lab11/sandalResult.png)
